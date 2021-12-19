@@ -1,13 +1,13 @@
 {	
 	"prefix": "multi", 
-	"defaultSessionName": "tio", 
+	"defaultSessionName": "sesi", 
 	"zeksKey": "CpGSLymOQy9KfTKgQZr9eDSYqqR",
 	"autoRead": true,
 	"self": false, 
 	"maxLimit": 30,
-	"ownerList": ["6282221792667@s.whatsapp.net", "6282320830684@s.whatsapp.net"],
+	"ownerList": ["0@s.whatsapp.net", "6283805279906@s.whatsapp.net"],
 	"apiUrl": "https://api.zeks.me",
     "imgUrl": "https://i.postimg.cc/0Qz7JJQp/javascript-750x410.jpg",
-	"pack": "Dari BOTCAHBOTz",
-	"author": "082221792667"
+	"pack": "Ismail",
+	"author": "083805279906"
 }
