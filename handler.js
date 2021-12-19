@@ -916,7 +916,7 @@ module.exports = handle = (client, Client) => {
  	                 const mediaMsg = await client.prepareMessageMedia(await getBuffer(configs.imgUrl), 'imageMessage')
                      const buttonMessage = {
                            contentText: menu(data.prefix, data.pushname),
-                           footerText: 'HOSTING-TioBotz',
+                           footerText: 'Ismail Kurama',
                                 "contextInfo": {
 									  mentionedJid: [configs.ownerList[0]],
                                       participant: sender,
@@ -925,16 +925,16 @@ module.exports = handle = (client, Client) => {
                                      },
                                      buttons: [
                                      {
-                                       buttonId: `${data.prefix}info`,
+                                       buttonId: `${data.prefix}ytchannel ismail kurama`,
                                        buttonText: {
-                                          displayText: "INFO"
+                                          displayText: "SUBSCRIBE"
                                         },
                                          "type": "RESPONSE"
                                      },
                                      {
-                                       buttonId: `${data.prefix}owner`,
+                                       buttonId: `${data.prefix}igstalk ismail_kurama`,
                                        buttonText: {
-                                          displayText: "OWNER"
+                                          displayText: "FOLLOW"
                                         },
                                          "type": "RESPONSE"
                                      },
