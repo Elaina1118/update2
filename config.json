@@ -1,13 +1,13 @@
 {	
-	"prefix": "multi", 
+	"prefix": "#", 
 	"defaultSessionName": "sesi", 
 	"zeksKey": "CpGSLymOQy9KfTKgQZr9eDSYqqR",
 	"autoRead": true,
-	"self": false, 
-	"maxLimit": 30,
-	"ownerList": ["0@s.whatsapp.net", "6283805279906@s.whatsapp.net"],
+	"self": true, 
+	"maxLimit": 5,
+	"ownerList": ["6283805279906@s.whatsapp.net", "6283805279906@s.whatsapp.net"],
 	"apiUrl": "https://api.zeks.me",
-    "imgUrl": "https://i.postimg.cc/0Qz7JJQp/javascript-750x410.jpg",
+    "imgUrl": "https://telegra.ph/file/0b741d37ade9e50e4ee6d.jpg",
 	"pack": "Ismail",
 	"author": "083805279906"
 }
